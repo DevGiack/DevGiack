@@ -21,10 +21,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgiack" alt="devgiack" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devgiack" target="blank"><img src="https://img.shields.io/twitter/follow/devgiack?logo=twitter&style=for-the-badge" alt="devgiack" /></a> </p>
+<p align="center"> <a href="https://twitter.com/devgiack" target="blank"><img src="https://img.shields.io/twitter/follow/devgiack?logo=twitter&style=for-the-badge" alt="devgiack" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/devgiack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devgiack" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaccomo-de-gregorio-333aa2251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaccomo-de-gregorio-333aa2251" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/devgiack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devgiack" height="30" width="40" /></a>
