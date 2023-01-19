@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jaccomo</h1>
 <h3 align="center">Student Developper Fullstack from France</h3>
 
+---------------------------------------------------------------------------
+
 - 🌱 I’m currently learning **Rails / JS / HTML / CSS**
 
 - 📫 How to reach me **devgiack@protonmail.com**
 
-- 📄 Know about my experiences [Sales Manager on retraining](Sales Manager on retraining)
+- 📄 Know about my experiences [Sales Manager on retraining]
 
 - ⚡ Fun fact **Thaïland is my second country**
 
