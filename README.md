@@ -19,8 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devgiack&" alt="devgiack" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgiack" alt="devgiack" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/devgiack" target="blank"><img src="https://img.shields.io/twitter/follow/devgiack?logo=twitter&style=for-the-badge" alt="devgiack" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
