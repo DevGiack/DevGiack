@@ -3,7 +3,7 @@
 
 ---------------------------------------------------------------------------
 
-- 🌱 I’m currently learning **React / Rails / JS / HTML / CSS**
+- 🌱 I’m currently learning **React / JS / Rails / HTML / CSS**
 
 - 📫 How to reach me **devgiack@protonmail.com**
 
